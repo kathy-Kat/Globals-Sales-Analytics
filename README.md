@@ -47,7 +47,7 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Enterprise
 - Midmarket
 - Channel Partners
-  <br>
+<br>
   
 # Geographic Analysis
 - Country-level sales performance using a treemap.
@@ -57,7 +57,7 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - France
 - Germany
 - Mexico
- <br>
+<br>
 
 # Pricing Analysis
 - Manufacturing Price vs Selling Price comparison.
@@ -98,3 +98,30 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - **October** recorded the highest monthly sales.
 - **Government** and **Small Business** segments contribute significantly to total revenue.
 - **Lower discount bands** generate higher profits compared to heavily discounted sales.
+
+# 🔍 Use Cases
+
+**This dashboard can be used by:**
+- Sales Managers
+- Business Analysts
+- Finance Teams
+- Executives and Decision Makers
+- Data Analytics Learners
+
+# 📥 Installation & Usage
+
+1. Clone the repository:
+git clone https://github.com/kathy-Kat/global-sales-dashboard.git
+2. Open the .pbix file using Power BI Desktop.
+3. Refresh the dataset if required.
+4. Explore the dashboard using available filters and slicers.
+   
+# ⭐ Future Enhancements
+- Sales forecasting using predictive analytics.
+- Customer retention analysis.
+- Regional performance drill-through pages.
+- Automated KPI alerts.
+Integration with real-time data sources.
+
+
+
