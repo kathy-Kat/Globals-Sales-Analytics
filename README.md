@@ -1,7 +1,6 @@
 # Global-Sales-Performance-Dashboard
 The Global Sales Performance Dashboard is an interactive business intelligence report designed to provide insights into sales performance across products, segments, countries, and time periods. The dashboard enables stakeholders to monitor key business metrics, identify trends, and make data-driven decisions.
 
-
 # 📊 Dashboard Overview
 The Global Sales Performance Dashboard offers a 360-degree view of business performance, including:
 
@@ -64,15 +63,15 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Manufacturing Price vs Selling Price comparison.
 - Cost of Sales vs Revenue trends.
 - Interactive Filtering
-<br>
-
+  
 **Users can dynamically filter dashboard data by:**
 - Product
 - Month
 - Year
 - Segment
 - Country
-  
+<br>
+
 # 🛠️ Tools & Technologies
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
@@ -81,17 +80,12 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Interactive Visualizations
 
 # 📷 Dashboard Screenshots
- <br>
 
 ## Executive Dashboard
 <img width="1293" height="734" alt="image" src="https://github.com/user-attachments/assets/618f0810-58b3-488a-9898-bc2c6599702a" />
 
-<br>
-
 ## Profitability Dashboard
 <img width="1272" height="727" alt="image" src="https://github.com/user-attachments/assets/f5d72fdb-a462-4269-a326-f480a54f7c5b" />
-
-<br>
 
 ## Detailed Analysis Dashboard
 <img width="1282" height="733" alt="image" src="https://github.com/user-attachments/assets/13bf40ea-e163-422b-b00c-6b246ebaeb5c" />
