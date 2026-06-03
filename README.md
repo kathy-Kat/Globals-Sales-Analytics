@@ -105,7 +105,6 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 # 📥 Installation & Usage
 
 1. Clone the repository:
-git clone https://github.com/kathy-Kat/global-sales-dashboard.git
 2. Open the .pbix file using Power BI Desktop.
 3. Refresh the dataset if required.
 4. Explore the dashboard using available filters and slicers.
