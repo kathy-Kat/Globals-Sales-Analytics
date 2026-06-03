@@ -45,7 +45,7 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Midmarket
 - Channel Partners
 
-# Geographic Analysis
+## Geographic Analysis
 - Country-level sales performance using a treemap.
 - Comparison across:
 - United States
@@ -54,7 +54,7 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Germany
 - Mexico
 
-# Pricing Analysis
+## Pricing Analysis
 - Manufacturing Price vs Selling Price comparison.
 - Cost of Sales vs Revenue trends.
 - Interactive Filtering
