@@ -1,5 +1,5 @@
 # Global-Sales-Performance-Dashboard
-The Global Sales Performance Dashboard is an interactive business intelligence report designed to provide insights into sales performance across products, segments, countries, and time periods. The dashboard enables stakeholders to monitor key business metrics, identify trends, and make data-driven decisions.
+This is an interactive business intelligence report designed to provide insights into sales performance across products, segments, countries, and time periods. The dashboard enables stakeholders to monitor key business metrics, identify trends, and make data-driven decisions.
 
 # 📊 Dashboard Overview
 The Global Sales Performance Dashboard offers a 360-degree view of business performance, including:
@@ -38,7 +38,7 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Profit contribution by discount bands.
 - Sales vs Profit analysis.
 
-# Customer Segment Analysis
+## Customer Segment Analysis
 - Small Business
 - Government
 - Enterprise
