@@ -17,9 +17,10 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Discount Band Impact Analysis
 - Manufacturing vs Selling Price Comparison
 
+
 # 🚀 Key Features
 
-**Executive Summary**
+## Executive Summary
 - Displays high-level KPIs:
 - Sales: **$118.7M**
 - Cost of Sales: **$101.83M**
@@ -27,13 +28,12 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Profit Margin: **27.90%**
 - Units Sold: **1.13M**
  
-# Sales Analysis
+## Sales Analysis
 - Monthly sales trend visualization.
 - Product-wise sales comparison.
 - Year-over-year sales performance.
- <br>
  
-# Profitability Insights
+## Profitability Insights
 - Profit margin comparison across products.
 - Profit contribution by discount bands.
 - Sales vs Profit analysis.
