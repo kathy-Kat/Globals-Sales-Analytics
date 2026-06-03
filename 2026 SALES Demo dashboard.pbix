@@ -1,1 +1,4 @@
-Download the raw data (Power BI)
+1. Download the raw data (Power BI)
+2. Open the .pbix file using Power BI Desktop.
+3. Refresh the dataset if required.
+4. Explore the dashboard using available filters and slicers.
