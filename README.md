@@ -16,7 +16,6 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Country-wise Sales Contribution
 - Discount Band Impact Analysis
 - Manufacturing vs Selling Price Comparison
-<br>
 
 # 🚀 Key Features
 
@@ -27,7 +26,6 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Profit: **$16.89M**
 - Profit Margin: **27.90%**
 - Units Sold: **1.13M**
- <br>
  
 # Sales Analysis
 - Monthly sales trend visualization.
@@ -39,16 +37,14 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Profit margin comparison across products.
 - Profit contribution by discount bands.
 - Sales vs Profit analysis.
- <br>
- 
+
 # Customer Segment Analysis
 - Small Business
 - Government
 - Enterprise
 - Midmarket
 - Channel Partners
-<br>
-  
+
 # Geographic Analysis
 - Country-level sales performance using a treemap.
 - Comparison across:
@@ -57,7 +53,6 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - France
 - Germany
 - Mexico
-<br>
 
 # Pricing Analysis
 - Manufacturing Price vs Selling Price comparison.
@@ -70,7 +65,6 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Year
 - Segment
 - Country
-<br>
 
 # 🛠️ Tools & Technologies
 - Power BI Desktop
