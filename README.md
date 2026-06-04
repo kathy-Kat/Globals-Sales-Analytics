@@ -58,8 +58,8 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Manufacturing Price vs Selling Price comparison.
 - Cost of Sales vs Revenue trends.
 - Interactive Filtering
-  
-**Users can dynamically filter dashboard data by:**
+  <br>
+**💡 _Users can dynamically filter dashboard data by:_**
 - Product
 - Month
 - Year
@@ -73,7 +73,7 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Data Modeling
 - Interactive Visualizations
 
-# 📷 Dashboard Screenshots
+# 📷 Dashboard Preview
 
 ## Executive Overview
 <img width="1403" height="803" alt="image" src="https://github.com/user-attachments/assets/4571a4a0-3c98-4a1a-8670-fcf04f29eed1" />
@@ -96,7 +96,7 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 
 # 🔍 Use Cases
 
-**This dashboard can be used by:**
+**_This dashboard can be used by:_**
 - Sales Managers
 - Business Analysts
 - Finance Teams
@@ -115,7 +115,7 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Customer retention analysis.
 - Regional performance drill-through pages.
 - Automated KPI alerts.
-Integration with real-time data sources.
+- Integration with real-time data sources.
 
 
 
