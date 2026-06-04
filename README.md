@@ -21,7 +21,7 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 # 🚀 Key Features
 
 ## Executive Summary
-### Displays high-level KPIs:
+**_Displays high-level KPIs:_**
 - Sales: **$118.7M**
 - Cost of Sales: **$101.83M**
 - Profit: **$16.89M**
