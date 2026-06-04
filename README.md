@@ -75,14 +75,15 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 
 # 📷 Dashboard Screenshots
 
-## Executive Dashboard
-<img width="1293" height="734" alt="image" src="https://github.com/user-attachments/assets/618f0810-58b3-488a-9898-bc2c6599702a" />
+## Executive Overview
+<img width="1403" height="803" alt="image" src="https://github.com/user-attachments/assets/4571a4a0-3c98-4a1a-8670-fcf04f29eed1" />
 
-## Profitability Dashboard
-<img width="1272" height="727" alt="image" src="https://github.com/user-attachments/assets/f5d72fdb-a462-4269-a326-f480a54f7c5b" />
+## Sales Performance
+<img width="1395" height="799" alt="image" src="https://github.com/user-attachments/assets/43235929-1baa-4326-a084-7c38f220e739" />
 
-## Detailed Analysis Dashboard
-<img width="1282" height="733" alt="image" src="https://github.com/user-attachments/assets/13bf40ea-e163-422b-b00c-6b246ebaeb5c" />
+## Profitability Analysis
+<img width="1407" height="805" alt="image" src="https://github.com/user-attachments/assets/bf963bbd-5de9-4464-88ad-54a44024c9fd" />
+
 
 <br>
 
