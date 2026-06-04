@@ -58,7 +58,8 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Manufacturing Price vs Selling Price comparison.
 - Cost of Sales vs Revenue trends.
 - Interactive Filtering
-  <br>
+<br>
+  
 **💡 _Users can dynamically filter dashboard data by:_**
 - Product
 - Month
