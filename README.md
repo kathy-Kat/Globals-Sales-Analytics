@@ -21,12 +21,21 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 # 🚀 Key Features
 
 ## Executive Summary
-**_Displays high-level KPIs:_**
+**📈 _Displays high-level KPIs:_**
 - Sales: **$118.7M**
 - Cost of Sales: **$101.83M**
 - Profit: **$16.89M**
 - Profit Margin: **27.90%**
 - Units Sold: **1.13M**
+<br>
+
+**💡 _Users can dynamically filter dashboard data by:_**
+- Product
+- Month
+- Year
+- Segment
+- Country
+<br>
  
 ## Sales Analysis
 - Monthly sales trend visualization.
@@ -60,14 +69,6 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Interactive Filtering
 <br>
   
-**💡 _Users can dynamically filter dashboard data by:_**
-- Product
-- Month
-- Year
-- Segment
-- Country
-<br>
-
 # 🛠️ Tools & Technologies
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
