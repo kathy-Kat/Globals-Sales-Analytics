@@ -1,5 +1,5 @@
 # Global Sales Performance Dashboard
-This is an interactive business intelligence report designed to provide insights into sales performance across products, segments, countries, and time periods. The dashboard enables stakeholders to monitor key business metrics, identify trends, and make data-driven decisions.
+This is an interactive business intelligence report designed using the MS Excel financials sample to provide insights into sales performance across products, segments, countries, and time periods. The dashboard enables stakeholders to monitor key business metrics, identify trends, and make data-driven decisions.
 <br> 
 # 📊 Dashboard Overview
 The Global Sales Performance Dashboard offers a 360-degree view of business performance, including:
@@ -35,7 +35,6 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Year
 - Segment
 - Country
-<br>
  
 ## Sales Analysis
 - Monthly sales trend visualization.
