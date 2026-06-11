@@ -1,4 +1,4 @@
-# Global Sales Performance Dashboard
+# Global Sales Analytics
 This is an interactive business intelligence report designed using the MS Excel financials sample to provide insights into sales performance across products, segments, countries, and time periods. The dashboard enables stakeholders to monitor key business metrics, identify trends, and make data-driven decisions.
 <br> 
 # 📊 Dashboard Overview
@@ -78,14 +78,15 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 # 📷 Dashboard Preview
 
 ## Executive Overview
-<img width="1403" height="803" alt="image" src="https://github.com/user-attachments/assets/4571a4a0-3c98-4a1a-8670-fcf04f29eed1" />
+<img width="1302" height="741" alt="image" src="https://github.com/user-attachments/assets/d9eba259-14a9-43e2-ba95-329e0a072357" />
+
 
 ## Sales Performance
-<img width="1395" height="799" alt="image" src="https://github.com/user-attachments/assets/43235929-1baa-4326-a084-7c38f220e739" />
+<img width="1322" height="732" alt="image" src="https://github.com/user-attachments/assets/e82e05bb-8a3e-481e-b313-f7e9be2750e6" />
+
 
 ## Profitability Analysis
-<img width="1407" height="805" alt="image" src="https://github.com/user-attachments/assets/bf963bbd-5de9-4464-88ad-54a44024c9fd" />
-
+<img width="1310" height="726" alt="image" src="https://github.com/user-attachments/assets/03e70557-a5fd-4b51-b422-c608e7f831e8" />
 
 <br>
 
