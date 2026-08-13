@@ -16,9 +16,9 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Country-wise Sales Contribution
 - Discount Band Impact Analysis
 - Manufacturing vs Selling Price Comparison
+<br>
 
-
-# 📷 Dashboard Preview
+# 📷 PREVIEW
 
 ## Executive Overview
 <img width="1302" height="741" alt="image" src="https://github.com/user-attachments/assets/d9eba259-14a9-43e2-ba95-329e0a072357" />
