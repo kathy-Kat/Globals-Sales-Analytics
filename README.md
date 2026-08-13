@@ -17,7 +17,6 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Discount Band Impact Analysis
 - Manufacturing vs Selling Price Comparison
 
-<br>
 
 # 📷 Dashboard Preview
 
