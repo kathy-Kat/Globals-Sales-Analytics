@@ -17,6 +17,21 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Discount Band Impact Analysis
 - Manufacturing vs Selling Price Comparison
 
+<br>
+
+# 📷 Dashboard Preview
+
+## Executive Overview
+<img width="1302" height="741" alt="image" src="https://github.com/user-attachments/assets/d9eba259-14a9-43e2-ba95-329e0a072357" />
+
+
+## Sales Performance
+<img width="1322" height="732" alt="image" src="https://github.com/user-attachments/assets/e82e05bb-8a3e-481e-b313-f7e9be2750e6" />
+
+
+## Profitability Analysis
+<img width="1310" height="726" alt="image" src="https://github.com/user-attachments/assets/03e70557-a5fd-4b51-b422-c608e7f831e8" />
+
 
 # 🚀 Key Features
 
@@ -74,19 +89,6 @@ The Global Sales Performance Dashboard offers a 360-degree view of business perf
 - Power Query
 - Data Modeling
 - Interactive Visualizations
-
-# 📷 Dashboard Preview
-
-## Executive Overview
-<img width="1302" height="741" alt="image" src="https://github.com/user-attachments/assets/d9eba259-14a9-43e2-ba95-329e0a072357" />
-
-
-## Sales Performance
-<img width="1322" height="732" alt="image" src="https://github.com/user-attachments/assets/e82e05bb-8a3e-481e-b313-f7e9be2750e6" />
-
-
-## Profitability Analysis
-<img width="1310" height="726" alt="image" src="https://github.com/user-attachments/assets/03e70557-a5fd-4b51-b422-c608e7f831e8" />
 
 <br>
 
